@@ -1,1 +1,1 @@
-# fpga-drone-remote-controller
+# FPGA Drone Remote Controller
