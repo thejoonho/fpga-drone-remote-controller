@@ -9,6 +9,7 @@
 
 ## 🗄️ Project Files
 
+- 📑 **PDF**: [Project Documentation](https://drive.google.com/file/d/1PHnlMs3alXOoAXeoXZO1SGt9lqkQFk4x/view?usp=sharing)
 
 ## 💐 Acknowledgements
 
