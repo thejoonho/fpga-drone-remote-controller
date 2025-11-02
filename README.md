@@ -12,7 +12,7 @@
 
 ## 🗄️ Project Files
 
-- 📑 **Google Doc:**: [Project Documentation](https://drive.google.com/file/d/1PHnlMs3alXOoAXeoXZO1SGt9lqkQFk4x/view?usp=sharing)
+- 📑 **Google Doc:** [Project Documentation](https://drive.google.com/file/d/1PHnlMs3alXOoAXeoXZO1SGt9lqkQFk4x/view?usp=sharing)
 - 🎬 **YouTube:** [Project Demo Video](https://www.youtube.com/watch?v=YJkABZvssBY)
 
 ## 💐 Acknowledgements
