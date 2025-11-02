@@ -1,7 +1,7 @@
 # FPGA Drone Remote Controller
 
 >[!IMPORTANT]
-> As this is part of a University of Toronto course project, I cannot release the project's code publicly.
+> This project is currently being worked on to become public.
 
 ## 🗄️ Project Files
 
