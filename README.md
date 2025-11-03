@@ -5,6 +5,8 @@
 
 ![head](https://github.com/thejoonho/fpga-drone-remote-controller/blob/main/images/fpga-drone-remote-controller.jpeg)
 
+🚁 Reverse-engineered a drone’s remote control PCB to decode movement signals and built a custom FPGA interface for radio communication. Used Wireshark and C programming to extract and display live video data from the drone’s iPhone network traffic on a MacBook.
+
 ## 🗄️ Project Files
 
 - 📑 **Google Doc:** [Project Documentation](https://drive.google.com/file/d/1PHnlMs3alXOoAXeoXZO1SGt9lqkQFk4x/view?usp=sharing)
