@@ -1,7 +1,9 @@
 # FPGA Drone Remote Controller
 
 >[!IMPORTANT]
-> This project is currently being worked on to become public.
+> As this is part of a University of Toronto course project, I cannot release the project's code publicly. However, the project's code will be available upon request.
+
+![head](https://github.com/thejoonho/fpga-drone-remote-controller/blob/main/images/fpga-drone-remote-controller.jpeg)
 
 ## 🗄️ Project Files
 
